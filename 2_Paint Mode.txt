@@ -1,0 +1,113 @@
+
+
+
+Sculptris En Espanol, Menus Del Software
+	https://www.youtube.com/watch?v=l_OFdsmrN6A
+
+
+Tutorial Sculptris En Espanol 17 videos
+	https://www.youtube.com/playlist?list=PL383057B6AEFC2B30
+	https://www.youtube.com/watch?v=iF8PCcTa8OU&list=PL383057B6AEFC2B30
+
+
+Tutorial Proyección de imágenes en Sculptris
+	https://www.youtube.com/watch?v=nXlcPmkQMwE
+
+
+////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+
+	------------------------------------------------------------------------------------------------
+	
+
+	Workflow:
+	_________
+
+
+
+	Model:
+	______
+
+	_en éste modo es recomendable haber terminado con el proceso de escultura en su totalidad ya que 
+
+	sculptris, creará UVs, automáticos sobre la mesh, del character, de ésta manera no podremos volver
+
+	ha editar éste posteriormente
+
+
+	_para lo cuál, es conveniento tener guardado una copia del character, en formado nativo de la aplicación
+
+	shortcut "Control + Shift + S"
+
+
+	Paint Mode:
+	___________
+
+	_al darle al botón de "Paint", nos aparecerá un panel contexutal el cuál, nos preguntará ha que resolución
+
+	deseamos que el programa cree la nueva textura ha generar en "Ks"
+
+
+	_así, como también, éste mismo panel contextual nos preguntará si activar la opción de "Tight Mapping", la 
+
+	cuál, se refiere ha si nuestro modelo tiene más de un elemento y si éstos están dispersos unos de otros
+
+
+	_de ésta manera, el sistema calculará un mapa de aproximación UV, para el character, ó motivo, así, nos 
+
+	mostrará éste con un mapa de textura de grid, de ejemplo ó de comienzo
+
+
+	
+	Paint:
+	______
+
+	_y como modalidad base podremos pintar directamente sobre el character, con colores planos totalmente editables
+
+	y personalizables	
+
+
+	
+	Alphas:
+	_______
+
+	_en el modo de paint mode, tenemos la posibilidad de activar la opción de alphas, de ésta manera podremos utilizar
+
+	imagenes como alphas, como estenciles para el proceso de pintura de nuestro character
+
+
+	
+	Textures:
+	_________
+
+	_también, en el modo de paint, podemos activar el pintado con texturas las cuales podremos importar de nuestras pc,
+
+	y pintar con éstas de forma libre con nustras brushes, así, como también, a través, de la opción de "Alpha", de ésta
+
+	manera, podremos pintar con las textuas a través, de los negativos y positivos de los alphas
+
+
+
+
+	Advanced Tools:
+	_______________
+
+	_así, como también, la utilización dimática de texturas las cuales se proyectarán sobre el character, en una 
+
+	determinada vista axonométrica ó no
+
+
+	_de ésta manera, podremos exportar un archivo de tipo Photoshop "Ps", el cuál, podremos editar ó personalizar con la
+
+	imágen ó snapshop, de la vista actual del character, respectivo, de ésta manera, podremos preparar un textura a la
+
+	medida ha proyectar sobre el modelo así, podremos repetir éstos pasos para el resto del modelo y sus vistas
+
+
+
+
+
+
+
